@@ -1,0 +1,17 @@
+/*
+ * Public facing CSS for Techxplorers' Plugin Listicle plugin
+ */
+.txp-plugin-listicle .txp-plugin-listicle-icon {
+	min-width: 130px;
+}
+
+.txp-plugin-listicle tr,
+.txp-plugin-listicle td,
+.txp-plugin-listicle table {
+	vertical-align: top;
+	border: 0px;
+}
+
+.txp-plugin-listicle .txp-plugin-listicle-descr p:first-of-type {
+	font-size: 1.2em;
+}
